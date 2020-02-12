@@ -1,5 +1,5 @@
 # Unity_Spheron_game
 
-A simple windows game 
+My first windows game 
 
 Running sphere through obstacles
